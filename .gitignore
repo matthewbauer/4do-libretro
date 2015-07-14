@@ -4,6 +4,5 @@
 *.dylib
 *.exe
 *.bc
-*.js
 .npmignore
 package.json
